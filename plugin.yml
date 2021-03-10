@@ -1,0 +1,10 @@
+main: esd.main
+name: esd_minigame
+version: 1.0
+author: its me
+api-version: 1.16
+commands:
+  esd_command_block:
+    description: use to insert command block location
+  esd_locator_stick:
+    description: give a stick to reveal block location on right click
